@@ -46,7 +46,6 @@ The data used in this project is synthetic and modeled to represent a typical ma
 1. Clone the repository:
     ```bash
     git clone https://github.com/bestkavindu/Marketing-Analyze-SQL-Python-Power-BI.git
-    cd Marketing-Analyze-SQL-Python-Power-BI
     ```
 2. Backup Sql database into the server
 3. Run the SQL scripts using your preferred SQL Server environment.
